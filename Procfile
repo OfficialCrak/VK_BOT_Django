@@ -1,0 +1,1 @@
+web: gunicorn vk_bot.wsgi --log-file -
